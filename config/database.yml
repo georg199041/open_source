@@ -28,7 +28,7 @@ test:
   database: offers_test
   pool: 5
   username: root
-  password:
+  password: gossipgirl
   socket: /var/run/mysqld/mysqld.sock
 
 production:
@@ -38,5 +38,5 @@ production:
   database: offers_production
   pool: 5
   username: root
-  password:
+  password: gossipgirl
   socket: /var/run/mysqld/mysqld.sock
